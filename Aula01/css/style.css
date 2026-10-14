@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+/*Chamando seletor de elemento dentro de classe*/
+
+h4.ex1{
+    color: red;
+    text-align: center;
+}
+
+/*Utilizando o celetor univesal*/
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*Agrupando seletores*/
+
+.ex2-h3, .ex2-p{
+    color: brown;
+}
+
